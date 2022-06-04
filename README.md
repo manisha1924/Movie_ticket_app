@@ -6,13 +6,13 @@ A new Flutter project.
 
 ## Wireframe
 
-[wireframe Amarjeet.pdf](https://github.com/Amarjeet62/project/files/8835032/wireframe.Amarjeet.pdf)
+[WireFrame.pdf]()
 
 
 ## Video
 
 
-https://user-images.githubusercontent.com/95033134/171933198-9974eda2-57de-4b7b-b5c5-9f4cf22b901f.mp4
+
 
 
 
