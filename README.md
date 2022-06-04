@@ -6,7 +6,8 @@ A Flutter project.
 
 ## Wireframe
 
-[WireFrame.docx](https://github.com/manisha1924/Movie_ticket_app/files/8837358/WireFrame.docx)
+[Wireframe_Movies_Ticket_Booking_App.pdf](https://github.com/manisha1924/Movie_ticket_app/files/8837426/Wireframe_Movies_Ticket_Booking_App.pdf)
+
 
 
 ## Video
