@@ -24,11 +24,10 @@ A Flutter project.
 ![Screenshot_2022-06-04-10-57-31-608_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993561-a1dd1889-396e-4245-8e17-1a2feeb73f1c.jpg)
 ![Screenshot_2022-06-04-10-57-40-599_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993565-ad780b49-1885-40fd-8abe-d056bb7c1049.jpg)
 ![Screenshot_2022-06-04-10-57-44-971_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993568-f6f67810-725e-470b-9ab9-ac63bae520cd.jpg)
-![Screenshot_2022-06-04-10-57-49-717_com example movie_ticket_app](https://user-images.githubuse
-![Screenshot_2022-06-04-10-58-01-681_com example movie_ticket_app](https://user-images.githubusercontent.com/907204
+![Screenshot_2022-06-04-10-57-49-717_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993723-4b6b2bef-edd6-47dc-9293-ca0b2589417b.jpg)
+![Screenshot_2022-06-04-10-58-01-681_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993729-97ed50a7-adf8-4132-9d4d-0c78c79bec8a.jpg)
 ![Screenshot_2022-06-04-10-58-33-280_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993587-1f1bc28a-f70a-4331-997c-2ee2949d3f91.jpg)
-97/171993582-8d4b56c7-13c8-43db-bd1a-6f595346a976.jpg)
-rcontent.com/90720497/171993573-74ac5e48-0c15-413d-8327-3c635c208678.jpg)
+
 
 
 
