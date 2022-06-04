@@ -16,17 +16,20 @@ A Flutter project.
 
 ## Screenshots
 
+![Screenshot_2022-06-04-10-56-38-153_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993517-8bf349d3-1d1d-4db6-8152-2159d85940b7.jpg)
+![Screenshot_2022-06-04-10-56-48-759_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993528-844f9cab-90e9-468c-a925-2698fa227843.jpg)
+![Screenshot_2022-06-04-10-56-41-453_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993534-67f9a916-6eee-4084-98d6-55d2c0fd0195.jpg)
+![Screenshot_2022-06-04-10-57-18-438_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993544-aa0f75d7-7836-45d4-ae44-6c61befbdec1.jpg)
+![Screenshot_2022-06-04-10-57-23-981_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993548-dac5d6a9-38ab-4977-86bb-4f800f64f95d.jpg)
+![Screenshot_2022-06-04-10-57-31-608_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993561-a1dd1889-396e-4245-8e17-1a2feeb73f1c.jpg)
+![Screenshot_2022-06-04-10-57-40-599_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993565-ad780b49-1885-40fd-8abe-d056bb7c1049.jpg)
+![Screenshot_2022-06-04-10-57-44-971_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993568-f6f67810-725e-470b-9ab9-ac63bae520cd.jpg)
+![Screenshot_2022-06-04-10-57-49-717_com example movie_ticket_app](https://user-images.githubuse
+![Screenshot_2022-06-04-10-58-01-681_com example movie_ticket_app](https://user-images.githubusercontent.com/907204
+![Screenshot_2022-06-04-10-58-33-280_com example movie_ticket_app](https://user-images.githubusercontent.com/90720497/171993587-1f1bc28a-f70a-4331-997c-2ee2949d3f91.jpg)
+97/171993582-8d4b56c7-13c8-43db-bd1a-6f595346a976.jpg)
+rcontent.com/90720497/171993573-74ac5e48-0c15-413d-8327-3c635c208678.jpg)
 
-### ![Screenshot_20220603-220819](https://user-images.githubusercontent.com/95033134/171928863-0125cbb5-804d-4426-8bdc-5d1ec36baf4f.jpg)
-![Screenshot_20220603-220836](https://user-images.githubusercontent.com/95033134/171929395-5494b232-856d-46d9-9871-75fd5dbefd05.jpg)
-![Screenshot_20220603-220830](https://user-images.githubusercontent.com/95033134/171930889-65caf19b-28b2-41ac-9670-ed3259fccdf1.jpg)
-![Screenshot_20220603-220917](https://user-images.githubusercontent.com/95033134/171929560-f6797433-c14e-4ec7-a700-abcba42c2e8a.jpg)
-![Screenshot_20220603-220928](https://user-images.githubusercontent.com/95033134/171929600-f59c9e02-705c-4091-8c5f-59fe5a521414.jpg)
-![Screenshot_20220603-220934](https://user-images.githubusercontent.com/95033134/171929625-ea61c050-a7d8-40a0-a115-378d744cba74.jpg)
-![Screenshot_20220603-220940](https://user-images.githubusercontent.com/95033134/171930099-a3b7fb2a-887e-4574-a9e1-2772c36389a9.jpg)
-![Screenshot_20220603-220948](https://user-images.githubusercontent.com/95033134/171930116-92b74bc7-d73f-482f-942f-f46f90ea979e.jpg)
-![Screenshot_20220603-221000](https://user-images.githubusercontent.com/95033134/171930128-9bb83082-3377-4c46-8be4-8887016084bc.jpg)
-![Screenshot_20220604-000430](https://user-images.githubusercontent.com/95033134/171930142-91e2bb3e-aab0-4311-a775-de3572223ca4.jpg)
 
 
 
