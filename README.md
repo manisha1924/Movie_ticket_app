@@ -1,17 +1,15 @@
-# movie_ticket_app
+# Movie_ticket_app
 
-A new Flutter project.
+A Flutter project.
 
 # Output
 
 ## Wireframe
 
-[WireFrame.pdf]()
+[WireFrame.docx](https://github.com/manisha1924/Movie_ticket_app/files/8837358/WireFrame.docx)
 
 
 ## Video
-
-
 
 
 
