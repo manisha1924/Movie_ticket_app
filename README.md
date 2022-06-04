@@ -12,8 +12,7 @@ A Flutter project.
 
 ## Video
 
-https://user-images.githubusercontent.com/90720497/171994010-bfed4416-ab07-4485-9e2b-d5016a618a26.mp4
-
+https://user-images.githubusercontent.com/90720497/171994733-0314254b-90c3-4b0f-bffc-981ce886bb03.mp4
 
 ## Screenshots
 
